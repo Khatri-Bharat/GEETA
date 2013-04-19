@@ -1,0 +1,48 @@
+(A |expresses| B) 1 ; (-5.074)
+gr-list: 1
+(|ncsubj| |express+s:2_VVZ| |A:1_ZZ1| _)
+(|dobj| |express+s:2_VVZ| |B:3_ZZ1|)
+
+
+(|In| |a| |snap| |election| |after| |the| |death|) 0 ; ()
+gr-list: 1
+(|dobj| |In:1_II| |election:4_NN1|)
+(|det| |election:4_NN1| |a:2_AT1|)
+(|ncmod| _ |election:4_NN1| |after:5_ICS|)
+(|dobj| |after:5_ICS| |death:7_NN1|)
+(|det| |death:7_NN1| |the:6_AT|)
+(|ncmod| _ |election:4_NN1| |snap:3_NN1|)
+
+
+(|induces| |in|) 0 ; ()
+gr-list: 1
+(|ncmod| |prt| |induce+s:1_VVZ| |in:2_RP|)
+
+
+(|seven| |staff| |members| |killed|) 1 ; (-8.604)
+gr-list: 1
+(|ncsubj| |kill+ed:4_VVN| |member+s:3_NN2| _)
+(|ncmod| |num| |member+s:3_NN2| |seven:1_MC|)
+(|ncmod| _ |member+s:3_NN2| |staff:2_NN|)
+
+
+(|earthquake| |strikes| |Bushehr|) 1 ; (-9.029)
+gr-list: 1
+(|ncsubj| |strike+s:2_VVZ| |earthquake:1_NN1| _)
+(|dobj| |strike+s:2_VVZ| |Bushehr:3_NP1|)
+
+
+(|gunman| |kills| |in| |Velika|) 1 ; (-8.104)
+gr-list: 1
+(|ncsubj| |kill+s:2_VVZ| |gunman:1_NN1| _)
+(|iobj| |kill+s:2_VVZ| |in:3_II|)
+(|dobj| |in:3_II| |Velika:4_NP1|)
+
+
+(|Tribal| |violence| |kills| |people|) 1 ; (-8.576)
+gr-list: 1
+(|ncsubj| |kill+s:3_VVZ| |violence:2_NN1| _)
+(|dobj| |kill+s:3_VVZ| |people:4_NN|)
+(|ncmod| _ |violence:2_NN1| |Tribal:1_JJ|)
+
+
